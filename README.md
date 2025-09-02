@@ -1,4 +1,6 @@
-📌 SMS Spam Detection Project
+# 📌 SMS Spam Detection Project
+
+
 🔹 Overview
 
 This project aims to classify SMS messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) techniques and Machine Learning models.
